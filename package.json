@@ -1,0 +1,12 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "Primer paquete",
+  "main": "enrutamiento.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node enrutamiento.js"
+  },
+  "author": "Gerardo Mir",
+  "license": "ISC"
+}
